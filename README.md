@@ -23,6 +23,13 @@ This version allows two players to take turns, detects the winner, and includes 
 - `Main.java` – Starts the game
 - `TicTacToeGame.jar` – A packaged Java archive containing the core game logic and functionality.
 
+## How to Run
 
+### Option 1: Run the JAR file
+
+> **Make sure Java is installed on your computer.**
+
+```bash
+java -jar TicTacToeGame.jar
 ## Personal Note
 As a Computer Science student, I like making my learning visible and more fun. This was just an exercise at first, but turning it into a real GUI game made it so much more exciting. It’s one of my first Java GUI projects, and I’m proud of how it turned out!

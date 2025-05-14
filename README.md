@@ -1,5 +1,4 @@
-# Tic-Tac-Toe-Game_Java
-# 🎮 Tic Tac Toe Java Game with GUI
+# Tic Tac Toe Java Game with GUI
  A simple 2-player Tic Tac Toe game in Java (console-based)
  
 ##  Description

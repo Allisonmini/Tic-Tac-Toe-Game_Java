@@ -24,7 +24,7 @@ This version allows two players to take turns, detects the winner, and includes 
 - `TicTacToeGame.jar` – A packaged Java archive containing the core game logic and functionality.
 
 ## Demo
-https://github.com/user-attachments/assets/0779a34a-3558-4b9a-835f-5f4e9eba25d4
+https://github.com/user-attachments/assets/ec0d0569-969a-4aca-a6f7-73c42b82ee0b
 
 ## Personal Note
 As a Computer Science student, I like making my learning visible and more fun. This was just an exercise at first, but turning it into a real GUI game made it so much more exciting. It’s one of my first Java GUI projects, and I’m proud of how it turned out!

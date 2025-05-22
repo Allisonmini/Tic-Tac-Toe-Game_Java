@@ -1,37 +1,60 @@
-# Tic Tac Toe Java Game with GUI
- A simple 2-player Tic Tac Toe game in Java (console-based)
- 
-##  Description
-This project is based on an exercise from my Java class. My professor gave us the logic part of the game, but I decided to take it a step further by creating a complete GUI version using `JFrame` and Java Swing. Instead of just printing the results in the terminal, I wanted to build something more interactive—an actual playable game!
+# Tic Tac Toe - Java GUI Game ❌⭕  
+A simple two-player Tic Tac Toe game with a graphical user interface using Java Swing.
 
-This version allows two players to take turns, detects the winner, and includes a reset button to start a new game. It was my first time working with Java Swing, and it really helped me understand how GUI and event-driven programming works.
+---
 
-##  Built With
-- Java SE
-- Java Swing (`JFrame`, `JButton`, `JLabel`)
-- IntelliJ IDEA
+## Description
 
-##  Features
-- Two-player Tic Tac Toe game
-- Simple graphical interface
-- Automatically detects winner or draw
-- Reset button to restart the game
-- Organized using Object-Oriented Programming
+This project also started as a class exercise in my Computer Science course. My professor provided us with the basic logic in the terminal. I decided to go beyond that by building a full desktop GUI version using **JFrame** and **Java Swing**.
+
+Players take turns placing their mark, the game automatically checks for a win or draw, and there’s a reset button to start over.
+
+---
+
+## 🛠️ Built With
+
+- Java SE  
+- Java Swing (`JFrame`, `JButton`, `JLabel`)  
+- IntelliJ IDEA  
+
+---
+
+## 💻 Features
+
+- Two-player gameplay  
+- Win and draw detection  
+- Reset button to restart  
+- Clean and functional GUI  
+- Object-Oriented Design  
+
+---
 
 ## 📁 Files
-- `MyTicTacToe.java` –  Builds the GUI and connects logic with user interaction
-- `Main.java` – Starts the game
-- `TicTacToeGame.jar` – A packaged Java archive containing the core game logic and functionality.
 
-## Demo
-https://github.com/user-attachments/assets/ec0d0569-969a-4aca-a6f7-73c42b82ee0b
+- `MyTicTacToe.java` – Builds the GUI and handles interactions  
+- `Main.java` – Entry point to launch the game  
+- `TicTacToeGame.jar` – Packaged runnable JAR version  
 
-## Personal Note
-As a Computer Science student, I like making my learning visible and more fun. This was just an exercise at first, but turning it into a real GUI game made it so much more exciting. It’s one of my first Java GUI projects, and I’m proud of how it turned out!
+---
 
-## How to Run: Run the JAR file
+## 🎥 Demo
 
-> **Make sure Java is installed on your computer.**
+[Watch the demo](https://github.com/user-attachments/assets/ec0d0569-969a-4aca-a6f7-73c42b82ee0b)
+
+---
+
+## 💬 Personal Note
+
+This was a great way for me to apply what I learned in class and see how simple logic could become an actual app. Converting a console game into a GUI project made it more exciting and gave me hands-on experience with Java Swing.
+
+---
+
+## 🚀 How to Run
+
+> Make sure Java is installed on your system.
+
+Run the JAR file with:
 
 ```bash
 java -jar TicTacToeGame.jar
+```
